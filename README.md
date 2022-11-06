@@ -8,7 +8,7 @@
    - numba
    - numpy 
 
-2) **Add any photos you like to convert to the input**
+2) **Add any photos you like to convert to the input folder**
  
 
 ***Resultat***
